@@ -58,8 +58,10 @@
     2. Any ancestors
     3. Any ancestors-in-law
 
-# Class C
+## Class C
 
-1. Any retirement home providing services to any members of Class A
+1. Any retirement home providing services to any member of Class A
 
-2. Any hospital that provides services to any members of Class A
+2. Any hospital providing services to any member of Class A
+
+3. Any person or entity providing legal services to any member of Class A
