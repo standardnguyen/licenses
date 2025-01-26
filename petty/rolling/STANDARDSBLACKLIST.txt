@@ -60,4 +60,6 @@
 
 # Class C
 
-1. Any retirement home that offers services to anyone *explicitly named* in Class A
+1. Any retirement home providing services to any members of Class A
+
+2. Any hospital that provides services to any members of Class A
