@@ -37,7 +37,7 @@
     2. Emily Pillmore, who is:
         1. Is a current or former board member of the Haskell Foundation
         2. Is a current or former employee at Kadena
-    3. Nathanael Magby
+    3. Nathanael Reuben Magby
 4. Krishan Patel (@Krishan_A_Patel on Twitter)
 5. Armand Domalewski (@ArmandDoma on Twitter)
 6. Terry Watkins (@TerryWatkinsJr1 on Twitter)
