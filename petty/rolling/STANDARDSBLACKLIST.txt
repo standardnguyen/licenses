@@ -57,6 +57,10 @@
     1. Any current spouse
     2. Any ancestors
     3. Any ancestors-in-law
+2. **Republican Affiliation:**
+    1. Any individual who is a registered Republican voter in the United States.
+    2. Any individual who has publicly self-identified as a Republican within the last year.
+    3. Any individual or entity that has donated funds, time, or resources to any Republican Party candidate, affiliate, or committee at the local, state, or federal level within the United States in the last four years.
 
 ## Class C
 
