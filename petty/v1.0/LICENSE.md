@@ -1,4 +1,4 @@
-# Standard’s Petty Software License v0.1
+# Standard’s Petty Software License v1.0
 
 ## Permission and Conditions
 
