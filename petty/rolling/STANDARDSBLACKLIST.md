@@ -50,6 +50,7 @@
     6. Eleni Sarris from Congress Park
     7. Cary Claytor Ferguson
     8. Treva Fulton
+    9. Scott Cavin Hickman
 8. **Relating to the Issuer:**
     1. Any parent, cousin, sibling, grandparent, aunt, or uncle of the Issuer, whether biological or in-law. This includes nonbinary aunts/uncles.
 
