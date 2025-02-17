@@ -53,6 +53,7 @@
     9. Scott Cavin Hickman
     10. Greg Oehm
     11. Patricia Ann Hollinshead
+    12. Joanne Davidson of Jefferson Park
 8. **Relating to the Issuer:**
     1. Any parent, cousin, sibling, grandparent, aunt, or uncle of the Issuer, whether biological or in-law. This includes nonbinary aunts/uncles.
 
