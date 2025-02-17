@@ -44,15 +44,14 @@
 7. **Relating to Current or Former Residents of Denver, Colorado and Surrounding Areas:**
     1. Autumn Trottier from Englewood, Colorado
     2. Roger Bell
-    3. Aiyla Lauren from University Hills
-    4. Paul Muldoon from University Hills
+    3. Aiyla Lauren
+    4. Paul Muldoon
     5. John W from Hampden South
-    6. Eleni Sarris from Congress Park
+    6. Eleni Sarris
     7. Cary Claytor Ferguson
     8. Treva Fulton
     9. Scott Cavin Hickman
-    10. Amber Beltran Perez
-    11. Greg Oehm
+    10. Greg Oehm
 8. **Relating to the Issuer:**
     1. Any parent, cousin, sibling, grandparent, aunt, or uncle of the Issuer, whether biological or in-law. This includes nonbinary aunts/uncles.
 
