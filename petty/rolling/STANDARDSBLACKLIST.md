@@ -52,6 +52,7 @@
     8. Treva Fulton
     9. Scott Cavin Hickman
     10. Greg Oehm
+    11. Patti Hollinshead
 8. **Relating to the Issuer:**
     1. Any parent, cousin, sibling, grandparent, aunt, or uncle of the Issuer, whether biological or in-law. This includes nonbinary aunts/uncles.
 
