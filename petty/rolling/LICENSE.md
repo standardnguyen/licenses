@@ -1,4 +1,4 @@
-# Standard's Petty Software License v1.0
+# Standard's Petty Software License v1.1
 
 ## Definitions
 
