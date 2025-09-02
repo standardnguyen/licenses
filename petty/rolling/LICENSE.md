@@ -156,7 +156,11 @@ THE LICENSED SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
 4. Krishan Patel (@Krishan_A_Patel on Twitter)
 5. Armand Domalewski (@ArmandDoma on Twitter)
 6. Terry Watkins (@TerryWatkinsJr1 on Twitter)
-7. Crémieux (cremieux.xyz, @cremieuxrecueil on Twitter)
+7. Antiwokes
+   1. Crémieux (cremieux.xyz, @cremieuxrecueil on Twitter)
+   2. Curtis Yarvin
+   3. Matt Yglesias
+   4. Noah Smith
 8. **Relating to Current or Former Residents of Denver, Colorado and Surrounding Areas:**
    1. Autumn Trottier from Englewood, Colorado
    2. Roger Bell
