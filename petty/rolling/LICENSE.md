@@ -3,7 +3,9 @@
 ## Permission and Conditions
 
 1. **Usage and Modification**
-    - You are permitted to use, modify, and redistribute this software for any purpose, provided that redistribution is done under the same license and with appropriate credit to the original author(s).
+    - You are permitted to use, modify, and redistribute this software for any purpose, provided that:
+        - You are not listed on Standard's Blacklist
+        - Redistribution is done under the same license and with appropriate credit to the original author(s)
 2. **Credit Requirements**
     - Proper credit must be provided, including:
         - The original author(s)' name(s)
@@ -12,7 +14,7 @@
 3. **License Continuity**
     - Any redistribution of this software, whether modified or unmodified, must be accompanied by this license, ensuring the same terms apply to subsequent users.
 
-## Standard’s Blacklist
+### Standard’s Blacklist
 
 Individuals or entities on [Standard’s Blacklist](./STANDARDSBLACKLIST.md) (also referred to as the Blood Embargo list) are strictly prohibited from using, modifying, distributing, or engaging with this software.
 
@@ -28,6 +30,7 @@ Individuals or entities on [Standard’s Blacklist](./STANDARDSBLACKLIST.md) (al
 ### Severability
 
 - If any provision is deemed invalid or unenforceable, the remaining provisions remain in effect. Invalid provisions will be modified to be valid and enforceable.
+- If any part of the Blacklist is deemed invalid or unenforceable, the rest of the remainder will remain in effect, and the licensing restrictions will continue to apply to all other individuals or entities listed therein.
 
 ### List Definition
 
