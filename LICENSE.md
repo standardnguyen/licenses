@@ -1,3 +1,6 @@
+The following is the initial version of Standard's Petty Software License. Please click [here](./petty/rolling/LICENSE.md) for the latest version.
+
+
 # Standard’s Petty Software License v0.1
 
 ## Permission and Conditions

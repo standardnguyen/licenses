@@ -1,3 +1,5 @@
+The following is the initial version of Standard's Blacklist. Please click [here](./petty/rolling/LICENSE.md) for the latest version.
+
 # Standard’s Blacklist v0.3
 
 ## Definitions
