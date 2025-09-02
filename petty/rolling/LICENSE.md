@@ -80,7 +80,7 @@ Individuals or entities on Standard's Blacklist are strictly prohibited from usi
 **Penalty:** Violators with a net worth above $100,000 USD (2019 Dollars) must compensate the original author(s) for any benefits gained from unauthorized use. This includes increased productivity, savings, and profits. An independent auditor will assess the compensation. Costs are borne by the infringing party if found liable. They must also cease use of the Licensed Software immediately upon notice.
 
 ### Inflation Adjustment
-The net worth threshold is adjusted annually based on the annual Consumer Price Index (CPI).
+The net worth threshold is adjusted annually based on the annual Consumer Price Index (CPI) as published by the United States Bureau of Labor Statistics.
 
 ## Other Terms and Conditions
 
@@ -105,22 +105,16 @@ THE LICENSED SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
 
 ---
 
-## License Text Attribution and Rights
-
-Standard is not Creative Commons and is not affiliated with Creative Commons. Substantial portions of the language in this license have been adapted from the Creative Commons Attribution-ShareAlike 4.0 International Public License. The text of Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. However, Standard does not release the text of this license to the public domain. This license text is subject to Standard's intellectual property rights.
-
-Standard does not authorize the use of the name "Standard" or any Standard trademarks or logos without prior written consent, including in connection with any unauthorized modifications to this license or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this section does not form part of the operative license terms above.
-
-# Standard’s Blacklist
+# Standard's Blacklist
 
 ## Definitions
 
-1. **Current Spouse:** The individual to whom a Class A member is legally married at the time of enforcement of this clause.
-2. **Ancestors:** All biological and legal predecessors of a Class A member, including parents, grandparents, great-grandparents, and so forth.
-3. **Ancestors-in-Law:** All biological and legal predecessors of a Class A member’s current spouse, including parents-in-law, grandparents-in-law, great-grandparents-in-law, and so forth.
-4. **Cousins:** Children of an individual’s aunts and uncles, including biological and in-law.
+1. **Current Spouse:** The individual to whom someone is legally married at the time of enforcement of this clause.
+2. **Ancestors:** All biological and legal predecessors of an individual, including parents, grandparents, great-grandparents, and so forth.
+3. **Ancestors-in-Law:** All biological and legal predecessors of an individual's current spouse, including parents-in-law, grandparents-in-law, great-grandparents-in-law, and so forth.
+4. **Cousins:** Children of an individual's aunts and uncles, including biological and in-law.
 5. **Siblings:** Brothers and sisters, including biological and in-law.
-6. **Aunts and Uncles:** Siblings of an individual’s parents, including biological and in-law, and including nonbinary aunts/uncles.
+6. **Aunts and Uncles:** Siblings of an individual's parents, including biological and in-law, and including nonbinary aunts/uncles.
 
 ## Class A
 
@@ -144,7 +138,7 @@ Standard does not authorize the use of the name "Standard" or any Standard trade
         5. Dain Johnson
         6. Teresa Bacon
     4. **Political Contributions:**
-        1. Any current or former resident of Windsor, Colorado who has ever donated to Donald Trump’s political campaigns
+        1. Any current or former resident of Windsor, Colorado who has ever donated to Donald Trump's political campaigns
 3. **Relating to Wetfish:**
     1. Rachel Shelton
     2. Emily Pillmore, who is:
@@ -154,7 +148,8 @@ Standard does not authorize the use of the name "Standard" or any Standard trade
 4. Krishan Patel (@Krishan_A_Patel on Twitter)
 5. Armand Domalewski (@ArmandDoma on Twitter)
 6. Terry Watkins (@TerryWatkinsJr1 on Twitter)
-7. **Relating to Current or Former Residents of Denver, Colorado and Surrounding Areas:**
+7. Crémieux (cremieux.xyz, @cremieuxrecueil on Twitter)
+8. **Relating to Current or Former Residents of Denver, Colorado and Surrounding Areas:**
     1. Autumn Trottier from Englewood, Colorado
     2. Roger Bell
     3. Aiyla Lauren
@@ -167,8 +162,8 @@ Standard does not authorize the use of the name "Standard" or any Standard trade
     10. Greg Oehm
     11. Patricia Ann Hollinshead
     12. Joanne Davidson of Jefferson Park
-8. **Relating to the Issuer:**
-    1. Any parent, cousin, sibling, grandparent, aunt, or uncle of the Issuer, whether biological or in-law. This includes nonbinary aunts/uncles.
+9. **Relating to the Licensor:**
+    1. Any parent, cousin, sibling, grandparent, aunt, or uncle of the Licensor, whether biological or in-law.
 
 ## Class B
 
@@ -176,15 +171,52 @@ Standard does not authorize the use of the name "Standard" or any Standard trade
     1. Any current spouse
     2. Any ancestors
     3. Any ancestors-in-law
-2. **Republican Affiliation:**
-    1. Any individual who is a registered Republican voter in the United States.
-    2. Any individual who has publicly self-identified as a Republican within the last year.
-    3. Any individual or entity that has donated funds, time, or resources to any Republican Party candidate, affiliate, or committee at the local, state, or federal level within the United States in the last four years.
 
-## Class C
+## Class C - Political Parties
+
+1. **United States:**
+    1. Republican Party
+2. **Canada:**
+    1. Conservative Party of Canada
+3. **United Kingdom:**
+    1. Conservative Party
+    2. Reform UK Party
+4. **Ireland:**
+    1. Conservative political parties
+5. **Germany:**
+    1. Alternative for Germany (AfD)
+
+## Class D - Political Affiliations
+
+1. **Relating to Class C Parties:**
+    1. Any individual who has run for office under any Class C party label at any level
+    2. Any leadership, employee, or registered member of any Class C party
+2. **Organizations and Entities:**
+    1. The Republican National Committee (RNC) and any subsidiary organizations
+    2. Any company majority-owned by Peter Thiel
+    3. Palantir Technologies Inc. and any subsidiary companies
+    4. The Heritage Foundation and any affiliate organizations
+    5. Americans for Prosperity and any affiliate organizations
+    6. The Federalist Society and any affiliate organizations
+    7. Turning Point USA and any affiliate organizations
+    8. The Daily Wire and any affiliate organizations
+    9. PragerU and any affiliate organizations
+    10. The American Enterprise Institute and any affiliate organizations
+    11. The Cato Institute and any affiliate organizations
+    12. Fox Corporation and any subsidiary companies (including Fox News)
+    13. Newsmax Media and any affiliate organizations
+    14. One America News Network (OAN) and any affiliate organizations
+
+## Class E
 
 1. Any retirement home providing services to any member of Class A
-
 2. Any hospital providing services to any member of Class A
-
 3. Any person or entity providing legal services to any member of Class A
+
+---
+
+# License Text Attribution and Rights
+
+Standard is not Creative Commons and is not affiliated with Creative Commons. Substantial portions of the language in this license have been adapted from the [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en). The text of Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. However, Standard does not release the text of this license to the public domain. This license text is subject to Standard's intellectual property rights.
+
+Standard does not authorize the use of the name "Standard" or any Standard trademarks or logos without prior written consent, including in connection with any unauthorized modifications to this license or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this section does not form part of the operative license terms above.
