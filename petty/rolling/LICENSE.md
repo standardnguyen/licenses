@@ -171,7 +171,7 @@ THE LICENSED SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
    11. Patricia Ann Hollinshead
    12. Joanne Davidson of Jefferson Park
 9. **Relating to the Licensor:**
-   1. Any parent, cousin, sibling, grandparent, aunt, or uncle of the Licensor, whether biological or in-law.
+   1. Any parent, cousin, sibling, grandparent, aunt, or uncle of Standard, whether biological or in-law.
 
 ## Class B
 
