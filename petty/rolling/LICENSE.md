@@ -64,6 +64,9 @@ If You distribute Adapted Software that You produce, the following conditions al
 2. You must include the text of, or the URI or hyperlink to, this license;
 3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Software that restrict exercise of the rights granted under this license.
 
+**Permission Request Mechanism:**
+If You wish to incorporate parts of the Licensed Software into other works whose license conditions are different, write to the Licensor to ask for permission. Standard may make exceptions for this. Our decision will be guided by preserving user freedoms in derivative works and promoting software sharing generally.
+
 ### 4. Technical Modifications
 The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights. This includes technical modifications necessary to circumvent Effective Technological Measures when legally permitted.
 
@@ -94,6 +97,9 @@ The Source Form must include all components necessary for a recipient to:
 2. Modify the software
 3. Compile or generate the executable form
 4. Install and run the resulting software
+
+**System Component Exception:**
+As a special exception, the Source Form need not include anything normally distributed with major system components (compiler, kernel, standard libraries, and so on) unless that component itself accompanies the Licensed Software.
 
 ### Delivery Methods
 Source Form may be provided through any reasonable method, including physical media, network download, or access to a source repository, provided the method remains accessible for the duration of any written offer period.
@@ -126,6 +132,10 @@ Software that requires embedding, linking, or incorporating portions of the Lice
 
 ### Aggregation Exception
 Collections of independent software distributed together solely for convenience do not become Derivative Works merely through such packaging, provided each work can function independently and no unified installation or operation procedure is required.
+
+## Section 10: License Versions
+
+Each version of this license has a distinguishing version number. If the Licensed Software specifies "Standard's Petty Software License [version] or any later version," You may choose to follow either that version or any later version published by Standard.
 
 ## Standard's Blacklist
 
