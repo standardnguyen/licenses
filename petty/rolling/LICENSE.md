@@ -135,14 +135,14 @@ Individuals or entities on Standard's Blacklist are strictly prohibited from usi
 
 ### Net Worth Below $100,000 USD (2019 Dollars)
 **Penalty:** Violators with a net worth below $100,000 USD (2019 Dollars) must:
-1. pay $100 to the original author(s);
+1. pay $100 USD (2019 Dollars) to the original author(s);
 2. immediately cease use of the Licensed Software; and
-3. pay an additional $10 per day for continued use until compliance.
+3. pay an additional $10 USD (2019 Dollars) per day for continued use until compliance.
 
 ### Net Worth Above $100,000 USD (2019 Dollars)
 **Penalty:** Violators with a net worth above $100,000 USD (2019 Dollars) must:
-1. pay $100 to the original author(s);
-2. pay an additional $10 per day for continued use until compliance;
+1. pay $100 USD (2019 Dollars) to the original author(s);
+2. pay an additional $10 USD (2019 Dollars) per day for continued use until compliance;
 3. immediately cease use of the Licensed Software upon notice;
 4. compensate the original author(s) for any benefits gained from unauthorized use, including increased productivity, savings, and profits;
 5. submit to assessment by an independent auditor to determine compensation; and
