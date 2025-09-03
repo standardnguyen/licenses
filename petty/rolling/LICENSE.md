@@ -8,7 +8,14 @@
 4. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
 5. **You** means the individual or entity exercising the Licensed Rights under this license.
 6. **Standard's Blacklist** means a list maintained by Standard that defines individuals and entities restricted from accessing this Licensed Software. This includes those involved in harmful, unethical, or illegal activities or subject to governmental or international sanctions. It can be found at the end of this document.
-7. **2019 Dollars** means U.S. dollar amounts adjusted to their equivalent purchasing power as of January 1, 2019, serving as the baseline for all monetary calculations in this license.
+7. **Derivative Work** means any work that incorporates, modifies, transforms, adapts, or builds upon the Licensed Software, including but not limited to:
+   1. Software containing any portion of the Licensed Software's code
+   2. Translations of the Licensed Software into different programming languages
+   3. Modified versions of the Licensed Software
+   4. Software that statically or dynamically links with the Licensed Software in a manner that creates a unified work
+8. **Mere Distribution** means the act of placing the Licensed Software alongside other unrelated software on storage media or distribution systems without creating functional interdependence between the works.
+9. **Source Form** means the preferred format for making modifications to software, including all source code files, associated interface definition files, build scripts, compilation instructions, and installation procedures necessary to generate executable versions.
+10. **2019 Dollars** means U.S. dollar amounts adjusted to their equivalent purchasing power as of January 1, 2019, serving as the baseline for all monetary calculations in this license.
 
 ## License Grant
 
@@ -68,6 +75,58 @@ The Licensor authorizes You to exercise the Licensed Rights in all media and for
 ### 6. No Endorsement
 Nothing in this license constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Software is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution.
 
+## Section 7: Source Code Distribution Requirements
+
+When You distribute the Licensed Software in executable or binary form, You must fulfill one of the following requirements:
+
+### Option A: Bundled Source Distribution
+Accompany the executable with the complete Source Form on the same physical or electronic medium typically used for software distribution.
+
+### Option B: Written Source Offer
+Accompany the executable with a written commitment, valid for no less than three (3) years, stating that You will provide any recipient with a complete copy of the Source Form for a fee not exceeding Your reasonable cost of physical distribution media and delivery.
+
+### Option C: Offer Pass-Through
+If You received the executable with a written source offer conforming to Option B, You may accompany Your distribution with the identical offer You received, provided Your distribution is non-commercial.
+
+### Source Form Requirements
+The Source Form must include all components necessary for a recipient to:
+1. Understand the software's functionality
+2. Modify the software
+3. Compile or generate the executable form
+4. Install and run the resulting software
+
+### Delivery Methods
+Source Form may be provided through any reasonable method, including physical media, network download, or access to a source repository, provided the method remains accessible for the duration of any written offer period.
+
+## Section 8: Legal Conflict Resolution
+
+### Conflicting Obligations
+If external circumstances impose conditions upon You that contradict any provision of this license—whether through court judgment, patent restrictions, government regulations, contractual obligations, or any other cause—such circumstances do not excuse compliance with this license.
+
+### Distribution Prohibition
+When You cannot simultaneously satisfy both this license and conflicting external obligations, You must cease all distribution and sublicensing of the Licensed Software until such conflicts are resolved.
+
+### Scope Limitation
+This restriction applies solely to distribution and sublicensing activities. Your right to use the Licensed Software for personal purposes remains unaffected by external conflicts that prevent distribution.
+
+### Resolution Priority
+The integrity of this license takes precedence over convenience or commercial considerations. No partial compliance or selective enforcement shall be deemed acceptable when conflicts arise.
+
+## Section 9: Work Scope and Boundaries
+
+### Coverage Determination
+This license applies to the Licensed Software and any Derivative Work. This license does not extend to:
+
+1. **Independent Works**: Software developed without reference to, knowledge of, or use of the Licensed Software
+2. **Mere Distribution**: Placing the Licensed Software on storage media alongside unrelated software without functional integration
+3. **Communication Interfaces**: Software that communicates with the Licensed Software through standardized protocols, APIs, or data formats, provided such communication does not require incorporating Licensed Software code
+
+### Integration Test
+Software that requires embedding, linking, or incorporating portions of the Licensed Software to function properly shall be considered a Derivative Work subject to this license.
+
+### Aggregation Exception
+Collections of independent software distributed together solely for convenience do not become Derivative Works merely through such packaging, provided each work can function independently and no unified installation or operation procedure is required.
+
 ## Standard's Blacklist
 
 Individuals or entities on Standard's Blacklist are strictly prohibited from using, modifying, distributing, or engaging with this Licensed Software.
@@ -82,10 +141,12 @@ Individuals or entities on Standard's Blacklist are strictly prohibited from usi
 
 ### Net Worth Above $100,000 USD (2019 Dollars)
 **Penalty:** Violators with a net worth above $100,000 USD (2019 Dollars) must:
-1. compensate the original author(s) for any benefits gained from unauthorized use, including increased productivity, savings, and profits;
-2. submit to assessment by an independent auditor to determine compensation;
-3. bear all costs if found liable; and
-4. cease use of the Licensed Software immediately upon notice.
+1. pay $100 to the original author(s);
+2. pay an additional $10 per day for continued use until compliance;
+3. immediately cease use of the Licensed Software upon notice;
+4. compensate the original author(s) for any benefits gained from unauthorized use, including increased productivity, savings, and profits;
+5. submit to assessment by an independent auditor to determine compensation; and
+6. bear all costs if found liable.
 
 ### Inflation Adjustment
 The net worth threshold is adjusted annually based on the annual Consumer Price Index (CPI) as published by the United States Bureau of Labor Statistics.
