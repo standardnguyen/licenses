@@ -1,0 +1,1 @@
+Please see ./LICENSE.md for the current text of Standard's Blacklist
