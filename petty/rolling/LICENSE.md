@@ -1,3 +1,5 @@
+
+
 # Standard's Petty Software License v2.x - Lawyered Version
  
 ## Definitions 
@@ -221,6 +223,7 @@ Any dispute or claim by you arising out of or related to this Agreement will be 
    1. Crémieux (cremieux.xyz, @cremieuxrecueil on Twitter) 
    2. Curtis Yarvin 
    3. Noah Smith 
+   4. Jayless Blame (@jaylessblame on Twitter)
 8. **Relating to Current or Former Residents of Denver, Colorado and Surrounding Areas:** 
    1. Autumn Trottier from Englewood, Colorado 
    2. Roger Bell 
