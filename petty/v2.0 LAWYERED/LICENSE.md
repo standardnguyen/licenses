@@ -235,6 +235,7 @@ Any dispute or claim by you arising out of or related to this Agreement will be 
    10. Greg Oehm
    11. Patricia Ann Hollinshead
    12. Joanne Davidson of Jefferson Park
+   13. Thea Quintanilla
 9. **Relating to the Licensor:**
    1. Any parent, cousin, sibling, grandparent, aunt, or uncle of Standard, whether biological or in-law.
 
