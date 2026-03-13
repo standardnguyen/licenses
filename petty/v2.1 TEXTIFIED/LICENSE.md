@@ -1,7 +1,7 @@
 # Standard's Petty Software License v2.1
 
 ## Definitions
-1. **Licensed Software** means all software, documentation, templates, configuration files, and other copyrightable works to which the Licensor applied this license.
+1. **Licensed Software** means all software, written works, documentation, templates, configuration files, and other copyrightable works to which the Licensor applied this license.
 2. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this license. These rights are limited to rights under copyright and similar rights that apply to Your use of the Licensed Software.
 3. **Adapted Software** means software subject to copyright and similar rights that is derived from or based upon the Licensed Software. This includes Licensed Software that is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the Licensor.
 4. **Effective Technological Measures** means any measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
