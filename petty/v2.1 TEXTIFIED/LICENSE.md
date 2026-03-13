@@ -257,6 +257,18 @@ Any dispute or claim by you arising out of or related to this Agreement will be 
    2. Reform UK Party
 4. **Germany:**
    1. Alternative for Germany (AfD)
+5. **France:**
+   1. Rassemblement National (RN)
+6. **Italy:**
+   1. Fratelli d'Italia (FdI)
+7. **Austria:**
+   1. Freedom Party of Austria (FPÖ)
+8. **Hungary:**
+   1. Fidesz
+9. **Israel:**
+   1. Likud
+   2. Otzma Yehudit
+   3. Religious Zionism
 
 ## Class D - Political Affiliations
 
