@@ -215,14 +215,13 @@ Any dispute or claim by you arising out of or related to this Agreement will be 
       2. Is a current or former employee at Kadena
    3. Nathanael Reuben Magby
 4. Krishan Patel (@Krishan_A_Patel on Twitter)
-5. Armand Domalewski (@ArmandDoma on Twitter)
-6. Terry Watkins (@TerryWatkinsJr1 on Twitter)
-7. Antiwokes
+5. Terry Watkins (@TerryWatkinsJr1 on Twitter)
+6. Antiwokes
    1. Crémieux (cremieux.xyz, @cremieuxrecueil on Twitter)
    2. Curtis Yarvin
    3. Noah Smith
    4. Jayless Blame (@jaylessblame on Twitter)
-8. **Relating to Current or Former Residents of Denver, Colorado and Surrounding Areas:**
+7. **Relating to Current or Former Residents of Denver, Colorado and Surrounding Areas:**
    1. Autumn Trottier from Englewood, Colorado
    2. Roger Bell
    3. Aiyla Lauren
@@ -236,7 +235,7 @@ Any dispute or claim by you arising out of or related to this Agreement will be 
    11. Patricia Ann Hollinshead
    12. Joanne Davidson of Jefferson Park
    13. Thea Quintanilla
-9. **Relating to the Licensor:**
+8. **Relating to the Licensor:**
    1. Any parent, cousin, sibling, grandparent, aunt, or uncle of Standard, whether biological or in-law.
 
 ## Class B
