@@ -6,18 +6,23 @@ This is a repository for custom software and intellectual property licenses that
 
 ```
 /
-├── LICENSE.md
-├── STANDARDSBLACKLIST.md
-└── petty/
-    └── v0.2/
-        ├── LICENSE.md
-        └── STANDARDSBLACKLIST.md
-    └── rolling/
-        ├── LICENSE.md
-        └── STANDARDSBLACKLIST.md
+├── petty/
+│   ├── v1.0/
+│   │   ├── LICENSE.md
+│   │   └── STANDARDSBLACKLIST.md
+│   ├── v1.1 PRELAWYER/
+│   │   └── LICENSE.md
+│   ├── v2.0 LAWYERED/
+│   │   └── LICENSE.md
+│   ├── v2.1 TEXTIFIED/
+│   │   └── LICENSE.md
+│   ├── v2.1.1/
+│   │   └── LICENSE.md
+│   └── v2.1.x ROLLING/
+│       └── LICENSE.md
+└── lesserpetty/
+    └── 1.0/
+        └── LICENSE.md
 ```
 
-The LICENSE.md and STANDARDSBLACKLIST.md at the root are the original versions of my Petty Software license, and I retain all rights over the licenses themselves.
-
-Future iterations will be uploaded into their own folders to prevent confusion, and when given a specific version designation they will not be modified in the future.
-The rolling folders is subject to change at any time, however.
+Versioned folders are frozen snapshots and will not be modified after release. The `v2.1.x ROLLING` folder is subject to change at any time and reflects the latest working draft.
