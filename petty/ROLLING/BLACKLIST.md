@@ -45,6 +45,7 @@
    2. Curtis Yarvin
    3. Noah Smith
    4. Jayless Blame (@jaylessblame on Twitter)
+   5. Cathy Young
 7. **Relating to Current or Former Residents of Denver, Colorado and Surrounding Areas:**
    1. Autumn Trottier from Englewood, Colorado
    2. Roger Bell
