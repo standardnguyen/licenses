@@ -19,7 +19,8 @@ This is a repository for custom software and intellectual property licenses that
 │   ├── v2.1.1/
 │   │   └── LICENSE.md
 │   └── ROLLING/
-│       └── LICENSE.md
+│       ├── LICENSE.md
+│       └── BLACKLIST.md
 └── lesserpetty/
     └── 1.0/
         └── LICENSE.md
