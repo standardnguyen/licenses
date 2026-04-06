@@ -237,6 +237,9 @@ Any dispute or claim by you arising out of or related to this Agreement will be 
    13. Thea Quintanilla
 8. **Relating to the Licensor:**
    1. Any parent, cousin, sibling, grandparent, aunt, or uncle of Standard, whether biological or in-law.
+9. **Relating to William & Mary Law School:**
+   1. Any individual currently employed by the William & Mary Law School (Marshall-Wythe School of Law), in any capacity, whether faculty, staff, or administration
+   2. Any individual currently enrolled as a student at the William & Mary Law School, and any individual who graduated or will graduate from the William & Mary Law School in calendar year 2026
 
 ## Class B
 
