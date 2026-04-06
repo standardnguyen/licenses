@@ -18,11 +18,12 @@ This is a repository for custom software and intellectual property licenses that
 │   │   └── LICENSE.md
 │   ├── v2.1.1/
 │   │   └── LICENSE.md
-│   └── v2.1.x ROLLING/
-│       └── LICENSE.md
+│   └── ROLLING/
+│       ├── LICENSE.md
+│       └── BLACKLIST.md
 └── lesserpetty/
     └── 1.0/
         └── LICENSE.md
 ```
 
-Versioned folders are frozen snapshots and will not be modified after release. The `v2.1.x ROLLING` folder is subject to change at any time and reflects the latest working draft.
+Versioned folders are frozen snapshots and will not be modified after release. The `ROLLING` folder is subject to change at any time and reflects the latest working draft.
