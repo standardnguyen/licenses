@@ -38,7 +38,17 @@
       1. Is a current or former board member of the Haskell Foundation
       2. Is a current or former employee at Kadena
    3. Nathanael Reuben Magby
-4. Krishan Patel (@Krishan_A_Patel on Twitter)
+4. **Relating to @Krishan_A_Patel:**
+   1. Krishan Aseet Patel (@Krishan_A_Patel on Twitter)
+   2. Dylan Partner
+   3. Sky Marchini
+   4. @Eli_B_Again (on Twitter)
+   5. Matt Szafranski
+   6. Jacob Ben-David Linker (@JacobALinker on Twitter)
+   7. Matt Convente (mattconvente.com)
+   8. David Watkins (University of Dayton)
+   9. Rocio (@neogaia on Twitter)
+   10. Andrew Figueiredo (Penn Law)
 5. Terry Watkins (@TerryWatkinsJr1 on Twitter)
 6. Antiwokes
    1. Crémieux (cremieux.xyz, @cremieuxrecueil on Twitter)
