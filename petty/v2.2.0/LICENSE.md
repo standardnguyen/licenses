@@ -1,4 +1,4 @@
-# Standard's Petty Software License v2.2.x
+# Standard's Petty Software License v2.2.0
 
 ## Definitions
 1. **Licensed Software** means all software, written works, documentation, templates, configuration files, and other copyrightable works to which the Licensor applied this license.
