@@ -23,6 +23,9 @@ This is a repository for custom software and intellectual property licenses that
 │   ├── v2.1.3/
 │   │   ├── LICENSE.md
 │   │   └── BLACKLIST.md
+│   ├── v2.2.0/
+│   │   ├── LICENSE.md
+│   │   └── BLACKLIST.md
 │   └── ROLLING/
 │       ├── LICENSE.md
 │       └── BLACKLIST.md
